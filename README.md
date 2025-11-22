@@ -1,4 +1,4 @@
-#  👩🏻‍💻 How to build AI Assistant!
+#  👩🏻‍💻 How to build an AI Assistant!
 <h/>
 
 ➡ Building a personal AI assistant allows you to save time by automating repetitive tasks, handling queries, and organizing information efficiently.
